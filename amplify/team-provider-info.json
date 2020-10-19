@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homeez2-dev-160514-authRole",
+      "UnauthRoleArn": "arn:aws:iam::243069252189:role/amplify-homeez2-dev-160514-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::243069252189:role/amplify-homeez2-dev-160514-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-homeez2-dev-160514-deployment",
+      "UnauthRoleName": "amplify-homeez2-dev-160514-unauthRole",
+      "StackName": "amplify-homeez2-dev-160514",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:243069252189:stack/amplify-homeez2-dev-160514/e049d5f0-1224-11eb-abc8-025abbc9e760",
+      "AmplifyAppId": "d1l1abwfpx61pv"
+    }
+  }
+}
