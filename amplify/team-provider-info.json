@@ -10,6 +10,11 @@
       "StackName": "amplify-homeez2-dev-160514",
       "StackId": "arn:aws:cloudformation:ap-southeast-1:243069252189:stack/amplify-homeez2-dev-160514/e049d5f0-1224-11eb-abc8-025abbc9e760",
       "AmplifyAppId": "d1l1abwfpx61pv"
+    },
+    "categories": {
+      "auth": {
+        "homeez22673daef": {}
+      }
     }
   }
 }

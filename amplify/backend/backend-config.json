@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "homeez22673daef": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
